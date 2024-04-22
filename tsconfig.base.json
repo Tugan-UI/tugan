@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@tugan/uikit": ["projects/uikit/src/index.ts"]
+      "@tugan/uikit": ["projects/uikit/src/index.ts"],
     }
   },
   "exclude": ["node_modules", "tmp"]
